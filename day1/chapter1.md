@@ -1,5 +1,3 @@
-Quests
-
     Explain what the Blockchain is in your own words. 
       -The Blockchain is an open way for people to interact with smart contracts through transactions. 
       -It is decentralized, open, and acts as a database to store and retrieve information. 
